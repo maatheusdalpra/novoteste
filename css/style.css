@@ -57,7 +57,7 @@ body {
 
 /*header section*/
 
-.botao1{ 
+.botao1 { 
     font-family:courier,arial,helvetica;  
     background-color: Transparent;
     background-repeat:no-repeat;
@@ -65,6 +65,7 @@ body {
     cursor:pointer;
     overflow: hidden;        
 }
+
 .fundo_area {
   background-image: url(../images/teste1.png);
   background-size: cover;
