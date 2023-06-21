@@ -56,6 +56,16 @@ body {
 }
 
 /*header section*/
+
+.botao1{ 
+  font
+    font-family:courier,arial,helvetica;  
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;        
+}
 .fundo_area {
   background-image: url(../images/teste1.png);
   background-size: cover;
